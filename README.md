@@ -65,6 +65,7 @@ data = keras.utils.get_file(origin=url)
 - The model learns to render novel views of the scene.
 - Output includes synthesized images and depth maps.
 - ![NeRF Rendering Example](/training.gif)
+- ![Final 3D rendering](/rgb_video.mp4)
 
 
 ## Future Improvements
