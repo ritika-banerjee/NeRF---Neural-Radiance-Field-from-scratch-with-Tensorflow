@@ -1,0 +1,10 @@
+numpy
+keras
+matplotlib
+scipy
+imageio
+tqdm
+opencv-python
+pillow
+configargparse
+tensorflow
